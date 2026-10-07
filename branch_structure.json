@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "dependabot/github_actions/main/actions/cache-6",
+    "dependabot/github_actions/main/actions/checkout-7",
+    "dependabot/github_actions/main/appleboy/scp-action-1.0.0",
+    "dependabot/github_actions/main/github-actions-minor-patch-a8937717ac",
+    "dependabot/npm_and_yarn/main/ioredis-6.0.0",
+    "dependabot/npm_and_yarn/main/multi-b0ec9e4250",
+    "dependabot/npm_and_yarn/main/node-fetch-3.3.2",
+    "main"
+  ],
+  "parent": {
+    "dependabot/github_actions/main/actions/cache-6": "main",
+    "dependabot/github_actions/main/actions/checkout-7": "main",
+    "dependabot/github_actions/main/appleboy/scp-action-1.0.0": "main",
+    "dependabot/github_actions/main/github-actions-minor-patch-a8937717ac": "main",
+    "dependabot/npm_and_yarn/main/ioredis-6.0.0": "main",
+    "dependabot/npm_and_yarn/main/multi-b0ec9e4250": "main",
+    "dependabot/npm_and_yarn/main/node-fetch-3.3.2": "main",
+    "main": null
+  },
+  "order": [
+    "main",
+    "dependabot/github_actions/main/actions/cache-6",
+    "dependabot/github_actions/main/actions/checkout-7",
+    "dependabot/github_actions/main/appleboy/scp-action-1.0.0",
+    "dependabot/github_actions/main/github-actions-minor-patch-a8937717ac",
+    "dependabot/npm_and_yarn/main/ioredis-6.0.0",
+    "dependabot/npm_and_yarn/main/multi-b0ec9e4250",
+    "dependabot/npm_and_yarn/main/node-fetch-3.3.2"
+  ]
+}
